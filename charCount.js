@@ -14,6 +14,13 @@
  * .counter-fail {
  * 	color: red;
  * }
+ * 
+ * Invoke like this: 
+ * $('textarea').charCounter({
+ * 	min: 200,
+ * 	max: 600,
+ * 	container: $('.counter')
+ * });
  */
 
 ( function( $ ) {
