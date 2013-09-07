@@ -4,7 +4,8 @@
  *
  * @author Liz Lee liz at lizlux dot net
  *
- * $element should be a form element (i.e. textarea, input)
+ * @param $element {jQuery} should be a form element (i.e. textarea, input)
+ * @param options {Object} must contain either a max or a min count as well as a jQuery container object where the counter will be inserted
  */
 
 ( function( $ ) {
