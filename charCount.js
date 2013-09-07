@@ -2,7 +2,7 @@
  * Options:
  *  container (required) jQuery element to add char counter into
  *
- * @author Liz Lee liz at lizlux dot net
+ * @author Liz Lee - liz at lizlux dot net
  *
  * @param $element {jQuery} should be a form element (i.e. textarea, input)
  * @param options {Object} must contain either a max or a min count as well as a jQuery container object where the counter will be inserted
