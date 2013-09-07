@@ -6,6 +6,14 @@
  *
  * @param $element {jQuery} should be a form element (i.e. textarea, input)
  * @param options {Object} must contain either a max or a min count as well as a jQuery container object where the counter will be inserted
+ *
+ * Sample css: 
+ * .counter-success {
+ * 	color: green;
+ * }
+ * .counter-fail {
+ * 	color: red;
+ * }
  */
 
 ( function( $ ) {
