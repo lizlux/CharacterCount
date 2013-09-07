@@ -2,7 +2,7 @@
  * Options:
  *  container (required) jQuery element to add char counter into
  *
- * @author Liz Lee liz@wikia-inc.com
+ * @author Liz Lee liz at lizlux dot net
  *
  * $element should be a form element (i.e. textarea, input)
  */
